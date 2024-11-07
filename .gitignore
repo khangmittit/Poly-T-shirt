@@ -1,0 +1,15 @@
+
+
+**/nbproject/private/
+**/nbproject/Makefile-*.mk
+**/nbproject/Package-*.bash
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+/nbproject/private/
+/build/
+/dist/
+/src/BackEnd/infrastucture/config/DBSqlConnection.java
+
